@@ -2,3 +2,4 @@ streamlit
 pdfplumber
 scikit-learn
 sqlite3
+pysqlite3-binary
